@@ -1,0 +1,12 @@
+{
+  "updates": [
+    {
+      "version": "1.0.1",
+      "details": "Correction de bogues et amélioration des performances."
+    },
+    {
+      "version": "1.1.0",
+      "details": "Ajout de nouvelles fonctionnalités à venir bientôt."
+    }
+  ]
+}
