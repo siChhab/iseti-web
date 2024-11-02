@@ -6,11 +6,11 @@
   "downloads": {
     "android": {
       "valid": false,
-      "link": "https://example.com/download/android" // Replace with actual link
+      "link": "https://example.com/download/android"
     },
     "ios": {
       "valid": false,
-      "link": "https://example.com/download/ios" // Replace with actual link
+      "link": "https://example.com/download/ios"
     }
   }
 }
