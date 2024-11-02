@@ -11,7 +11,7 @@
   ],
   "downloads": {
     "android": {
-      "valid": true,
+      "valid": false,
       "link": "https://example.com/android-download"
     },
     "ios": {
