@@ -1,6 +1,16 @@
 {
   "updates": [
-    { "version": "1.0", "details": "new project: iseti" },
+    { "version": "1.0", "details": "Détails de la mise à jour 1." },
     { "version": "1.1", "details": "Ajout d'un système d'accueil, d'un écran d'accueil, amélioration des performances et du design." }
-  ]
+  ],
+  "downloads": {
+    "android": {
+      "valid": false,
+      "link": "https://example.com/download/android" // Replace with actual link
+    },
+    "ios": {
+      "valid": false,
+      "link": "https://example.com/download/ios" // Replace with actual link
+    }
+  }
 }
