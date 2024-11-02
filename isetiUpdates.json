@@ -1,9 +1,22 @@
 {
   "updates": [
-    { "version": "1.0", "details": "new project : iseti." }
+    {
+      "version": "1.0.1",
+      "details": "Correction de bugs mineurs."
+    },
+    {
+      "version": "1.0.0",
+      "details": "Lancement initial de l'application avec toutes les fonctionnalités de base."
+    }
   ],
   "downloads": {
-    "android": { "valid": false, "link": "https://example.com/android-app" },
-    "ios": { "valid": false, "link": "https://example.com/ios-app" }
+    "android": {
+      "valid": true,
+      "link": "https://example.com/android-download"
+    },
+    "ios": {
+      "valid": false,
+      "link": ""
+    }
   }
 }
